@@ -1,0 +1,34 @@
+body{
+    background-color: navy;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px mediumaquamarine;
+}
+
+.note
+{
+    font-size: 15px;
+    color: mediumblue;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:mediumvioletred;
+    bottom: 0;
+    width: 100%;
+    background-color:mintcream;
+    line-height: 3;
+    text-align: left;
+}
+
+canvas
+{
+    border:5px solid orange;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px orangered;
+}
